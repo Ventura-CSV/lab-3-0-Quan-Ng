@@ -8,10 +8,10 @@ def main():
     Make your code here
     """
 
-    if result:
-        print(f'The value {number} is an odd number')
+    if (number % 2) == 0:
+        print(f'The value {number} is an 0')
     else:
-        print(f'The value {number} is an even number')
+        print(f'The value {number} is an 1')
 
     ########################################
     # Do not delete the return statement
