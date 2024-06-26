@@ -3,7 +3,6 @@ def main():
     # Comlete your code here
     ##################################################
     number = int(input('Enter your input: '))
-
     """
     Make your code here
     """
