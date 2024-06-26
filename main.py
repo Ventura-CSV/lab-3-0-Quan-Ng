@@ -5,6 +5,7 @@ def main():
     number = int(input('Enter your input: '))
     """
     Make your code here
+    
     """
 
     if (number % 2) == 0:
