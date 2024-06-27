@@ -14,7 +14,7 @@ def main():
         result = 0
     else:
         print(f'The value 1')
-        result = "1"
+        result = 1
 
     ########################################
     # Do not delete the return statement
