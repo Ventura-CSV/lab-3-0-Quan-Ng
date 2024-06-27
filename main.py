@@ -11,7 +11,7 @@ def main():
 
     if (result % 2 == 0):
         print(f'The value 0')
-        result = "0"
+        result = 0
     else:
         print(f'The value 1')
         result = "1"
